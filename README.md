@@ -7,3 +7,4 @@
  2. then open command prompt in your pc or laptop goto where your files is saved
  3. then type javac User.java
  4. then type java User
+ for reference see the manual video 
